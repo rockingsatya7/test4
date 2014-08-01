@@ -1,0 +1,15 @@
+{
+  "name": "search",
+  "description": "searchengine",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.4.4",
+    "mocha": "*",
+    "should": ">= 0.0.1",
+    "supertest": "0.13.0",
+    "body-parser":"1.4.3",
+    "stringtokenizer":"0.0.4",
+    "natural":"0.1.27"
+   }
+}
